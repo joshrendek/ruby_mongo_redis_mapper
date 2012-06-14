@@ -1,3 +1,17 @@
+# Pre-requistes
+
+* MongoDB 
+* Redis 
+* Ruby 
+* A few CPU cores if you really want to benefit from this
+
+Using my MBP: 
+* 16GB RAM
+* i7 ( 8 cores )
+* Samsung SSD
+
+It can churn through a few thousands jobs in the queue in usually under 5 minutes. Add more networked computers and you can easily handle more.
+
 # Installation
 
 ```
