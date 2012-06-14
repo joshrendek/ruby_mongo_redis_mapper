@@ -1,0 +1,5 @@
+source 'http://rubygems.org'
+gem 'resque', '1.18.6'
+gem 'rake'
+gem 'mongoid'
+gem 'bson_ext'
